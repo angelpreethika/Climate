@@ -1,0 +1,45 @@
+/* General styling*/
+body {
+  font-family:Arial,sans-serif:
+  text-align:center;
+  bankground-color:#f4f4f4;
+  margin:0;
+  padding:20px;
+}
+
+/* Heading*/
+hl {
+     color:#333;
+}
+
+/* Input field*/
+input  {
+   padding:10px;
+   font-size:1cm;
+  border:1px solid:5px;
+  border-radius:5px;
+}
+
+/* Button*/
+burron{
+  margin-left:10px;
+  padding:10px 15px;
+  font-size:1cm;
+  color:white;
+  background-color:#007bff;
+  border:none;
+  border-radius:5px;
+  cursor:pointer;
+  transition:0.3s
+}
+
+button:hover {
+  background -color:#0056b3;
+}
+
+/*weather info */
+p{
+  font-size:1,2em;
+  color:#555;
+  margin-top:20px;
+}
